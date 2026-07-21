@@ -85,6 +85,37 @@ a:hover {
 }
 
 
+/* Project cards */
+
+.project {
+    margin-top: 40px;
+    padding: 20px;
+    border-left: 3px solid #2563EB;
+}
+
+
+.project a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.project a:hover {
+    color: #2563EB;
+}
+
+
+.project h2 {
+    margin-bottom: 10px;
+    color: #1D2733;
+}
+
+
+.project p {
+    margin-top: 10px;
+}
+
+
 /* Footer */
 
 footer {
