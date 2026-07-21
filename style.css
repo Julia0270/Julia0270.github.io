@@ -96,14 +96,12 @@ a:hover {
 
 .project a {
     text-decoration: none;
-    color: inherit;
+    color: #1D2733;
 }
-
 
 .project a:hover {
     color: #2563EB;
 }
-
 
 .project h2 {
     margin-bottom: 10px;
