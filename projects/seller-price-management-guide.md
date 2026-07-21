@@ -10,33 +10,33 @@
 > Make sure that the product price complies with the minimum price requirements defined by the pricing policy.
 <details>
 <summary>Method 1: Update the price manually</summary>
-1. Open **Prices & Offers** → **Manage Prices**.
 
-2. Select the required product and click the price field to edit it.
+  1. Open **Prices & Offers** → **Manage Prices**.
+  
+  2. Select the required product and click the price field to edit it.
+  
+  3. Edit the price and click **Save**.
 
-3. Edit the price and click **Save**.
+#### Result
 
-## Result
-
-The product price is successfully updated.
+  The product price is successfully updated.
 
 </details>
 
 <details>
 <summary>Method 2: Update prices using a template</summary>
 
+  1. Open **Prices & Offers** → **Bulk Price Update**.
+  
+  2. Download the price update template.
+  
+  3. Fill in the required product information and enter new prices.
+  
+  4. Upload the completed template.
+  
+  5. Click **Apply Changes**.
 
-1. Open **Prices & Offers** → **Bulk Price Update**.
-
-2. Download the price update template.
-
-3. Fill in the required product information and enter new prices.
-
-4. Upload the completed template.
-
-5. Click **Submit** to apply changes.
-
-### Result
+#### Result
 
 The product prices are updated based on the uploaded template.
 
