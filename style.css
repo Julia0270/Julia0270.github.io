@@ -1,103 +1,128 @@
 body {
-
-background: #dceaf5;
-
-font-family: Arial, sans-serif;
-
-color: #222;
-
-margin:0;
-
+    background: #F6F3EE;
+    color: #222222;
+    font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 
+/* Header */
 
 header {
-
-max-width:580px;
-
-margin:40px auto;
-
+    max-width: 580px;
+    margin: 40px auto;
 }
-
 
 
 nav a {
-
-margin-right:25px;
-
-text-decoration:none;
-
-color:#555;
-
+    margin-right: 25px;
+    text-decoration: none;
+    color: #555555;
+    font-size: 16px;
 }
 
 
+nav a:hover {
+    color: #2563EB;
+}
+
+
+/* Main content */
 
 main {
-
-max-width:580px;
-
-margin:auto;
-
-padding-bottom:60px;
-
+    max-width: 580px;
+    margin: auto;
+    padding-bottom: 60px;
 }
 
 
+/* Headings */
 
 h1 {
-
-font-size:34px;
-
-font-weight:700;
-
-margin-bottom:10px;
-
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    letter-spacing: -0.5px;
 }
-
 
 
 h2 {
-
-font-size:18px;
-
-font-weight:400;
-
-color:#777;
-
+    font-size: 18px;
+    font-weight: 400;
+    color: #6B7280;
+    margin-bottom: 35px;
 }
 
 
+/* Text */
 
 p {
-
-font-size:18px;
-
-line-height:1.7;
-
-margin-top:35px;
-
+    font-size: 18px;
+    line-height: 1.7;
+    margin-top: 35px;
 }
 
 
+/* Skills list */
+
+ul {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-top: 20px;
+    padding-left: 25px;
+}
+
+
+/* Links */
+
+a {
+    color: #2563EB;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Footer */
 
 footer {
-
-margin-top:50px;
-
-font-style:italic;
-
-font-weight:bold;
-
+    margin-top: 50px;
+    font-style: italic;
+    font-weight: bold;
 }
-
 
 
 footer a {
+    color: #222222;
+    text-decoration: none;
+}
 
-color:#222;
 
-text-decoration:none;
+footer a:hover {
+    color: #2563EB;
+}
+
+
+/* Mobile version */
+
+@media (max-width: 700px) {
+
+    header,
+    main {
+        max-width: calc(100% - 40px);
+    }
+
+
+    h1 {
+        font-size: 30px;
+    }
+
+
+    p,
+    ul {
+        font-size: 17px;
+    }
 
 }
