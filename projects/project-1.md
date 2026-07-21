@@ -39,7 +39,7 @@ Before you begin, make sure that:
 
 Request the product list from the Product Manager.
 
-The Product Manager provides an Excel file containing the following columns:
+The Manager provides an XLSX file containing the following columns:
 
 - **SKU**
 - **Category**
