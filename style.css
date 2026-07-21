@@ -95,6 +95,7 @@ a:hover {
 .project a {
     margin-bottom: 10px;
     color: #1D2733;
+    text-decoration: none;
 }
 
 
