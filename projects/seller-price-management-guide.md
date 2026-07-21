@@ -13,6 +13,8 @@
   
 <summary>Method 1: Update the price manually</summary>
 
+#### Steps
+
   1. Open **Prices & Offers** → **Manage Prices**.
   
   2. Select the required product and click the price field to edit it.
@@ -28,6 +30,8 @@
 <details>
   
 <summary>Method 2: Update prices using a template</summary>
+
+#### Steps
 
   1. Open **Prices & Offers** → **Bulk Price Update**.
   
