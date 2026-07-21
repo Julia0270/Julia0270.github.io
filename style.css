@@ -94,26 +94,30 @@ a:hover {
 }
 
 
-.project a {
-    text-decoration: none;
-    color: #1D2733;
-}
-
-.project a:hover {
-    color: #2563EB;
-}
+/* Project title link */
 
 .project h2 {
     margin-bottom: 10px;
-    color: #1D2733;
 }
 
+
+.project h2 a {
+    text-decoration: none;
+    color: #2563EB;
+}
+
+
+.project h2 a:hover {
+    text-decoration: underline;
+}
+
+
+/* Project description */
 
 .project p {
     margin-top: 10px;
+    color: #6B7280;
 }
-
-
 /* Footer */
 
 footer {
