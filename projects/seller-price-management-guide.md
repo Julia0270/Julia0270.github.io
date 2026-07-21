@@ -10,6 +10,7 @@
 > Make sure that the product price complies with the minimum price requirements defined by the pricing policy.
 
 <details>
+  
 <summary>Method 1: Update the price manually</summary>
 
   1. Open **Prices & Offers** → **Manage Prices**.
@@ -25,6 +26,7 @@
 </details>
 
 <details>
+  
 <summary>Method 2: Update prices using a template</summary>
 
   1. Open **Prices & Offers** → **Bulk Price Update**.
