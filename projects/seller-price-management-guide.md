@@ -1,6 +1,6 @@
 # Updating a Product Price
 
-> **Note:** This guide is a sample documentation created for demonstration purposes only.  
+> **Note:** This guide is a sample documentation created for demonstration purposes only.
 > All names, data, screenshots, and examples used in this document are fictional and do not represent real products, systems, or workflows.
 
 
@@ -8,6 +8,7 @@
 
 > [!WARNING] 
 > Make sure that the product price complies with the minimum price requirements defined by the pricing policy.
+
 <details>
 <summary>Method 1: Update the price manually</summary>
 
@@ -41,3 +42,5 @@
 The product prices are updated based on the uploaded template.
 
 </details>
+
+[← Back to Portfolio](https://julia0270.github.io/portfolio.html)
